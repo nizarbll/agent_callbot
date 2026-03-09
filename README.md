@@ -1,5 +1,5 @@
-# Julie - Insurance Callbot
-### GenAI Hackathon Project – Capgemini Morocco
+# - Insurance Callbot
+### GenAI Hackathon Project 
 
 ## 🔍 Abstract
 
