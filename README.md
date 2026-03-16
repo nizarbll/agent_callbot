@@ -72,12 +72,6 @@ As required for the hackathon submission:
 * **Source Code** – hosted in this GitHub repository
 * **Presentation Slides** – available on Google Drive
 * **Demo Video** – available on Google Drive
-
-**Access all deliverables here:**
-[Google Drive – Presentation & Demo Video](https://drive.google.com/drive/folders/1_9cu88-4_XAGNgrONXYsIxmy98HEdzSQ)
-
-
-
 ## 💡 Impact & Benefits
 
 This solution enables:
